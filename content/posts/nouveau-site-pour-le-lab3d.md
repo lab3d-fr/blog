@@ -4,8 +4,8 @@ draft = false
 title = 'Nouveau site pour le Lab3d'
 +++
 
-Le nouveau site du lab3d est en ligne:
+Le nouveau site du lab3d est en ligne:<br>
 https://www.lab3d-crepy.fr
-
-N'hésitez pas à nous dire ce que vous en pensez.
+<br>
+N'hésitez pas à nous dire ce que vous en pensez.<br>
 L'étape d'après est déjà en cours : un blog !
