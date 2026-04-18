@@ -1,0 +1,4 @@
+baseURL = "https://lab3d-fr.github.io/blog/"
+languageCode = "fr"
+title = "Lab3D Blog"
+theme = "PaperMod"
