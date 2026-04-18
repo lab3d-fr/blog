@@ -7,4 +7,4 @@ title = 'Nouveau site pour le Lab3d'
 Le nouveau site du lab3d est en ligne :  
 https://www.lab3d-crepy.fr  
 N'hésitez pas à nous dire ce que vous en pensez.  
-L'étape d'après est déjà en cours : un blog !
+L'étape suivante est en cours : le blog !
